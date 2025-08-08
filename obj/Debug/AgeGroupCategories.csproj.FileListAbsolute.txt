@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\AgeGroupCategories\bin\Debug\AgeGroupCategories.exe.config
+C:\Users\HP\source\repos\AgeGroupCategories\bin\Debug\AgeGroupCategories.exe
+C:\Users\HP\source\repos\AgeGroupCategories\bin\Debug\AgeGroupCategories.pdb
+C:\Users\HP\source\repos\AgeGroupCategories\obj\Debug\AgeGroupCategories.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\AgeGroupCategories\obj\Debug\AgeGroupCategories.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\AgeGroupCategories\obj\Debug\AgeGroupCategories.exe
+C:\Users\HP\source\repos\AgeGroupCategories\obj\Debug\AgeGroupCategories.pdb
